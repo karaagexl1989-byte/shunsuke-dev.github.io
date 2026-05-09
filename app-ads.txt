@@ -1,1 +1,2 @@
-test
+google.com, pub-4611944579081018, DIRECT, f08c47fec0942fa0
+applovin.com, (ログインできたらここにIDを入れる), DIRECT, c10271171822822a
